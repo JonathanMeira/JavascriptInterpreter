@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavascriptInterpreter", "JavascriptInterpreter\JavascriptInterpreter.csproj", "{AAC9CAEA-DD7B-41BF-ABE8-29E3B5971E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAC9CAEA-DD7B-41BF-ABE8-29E3B5971E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC9CAEA-DD7B-41BF-ABE8-29E3B5971E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC9CAEA-DD7B-41BF-ABE8-29E3B5971E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC9CAEA-DD7B-41BF-ABE8-29E3B5971E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC134A7-F10B-4B0E-AA0A-C768F0B81461}
+	EndGlobalSection
+EndGlobal
